@@ -1,5 +1,5 @@
 # skins
-Skins for Osu! _nothing much_ too look at.
+Skins for Osu! _nothing much_ to look at.
 
 These are the links to the osu! skins that I currently use. ~~Maybe~~ this will be updated maybe not.
 
