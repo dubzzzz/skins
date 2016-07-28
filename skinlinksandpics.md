@@ -3,13 +3,17 @@ Skins for Osu! _nothing much_ to look at.
 
 These are the links to the osu! skins that I currently use. ~~Maybe~~ this will be updated maybe not.
 
+**dubzcantgetagoodskin** (Supports all Modes : [download] (https://puu.sh/qhXKV/579b936989.zip)
+
+![Screenshot] (https://puu.sh/qhY7B/f613442065.jpg "Screenshot")
+
 **dubz's mix of rafis** : [download] (http://puu.sh/pGjvJ/047f94086b.zip)
 
 ![Screenshot] (http://puu.sh/pKYd6/9ba346b3c5.jpg "Screenshot")
 
 **dubz's ugly skin** : [download] (http://puu.sh/pRdLV/4bd7c11cea.zip)
 
-![Screenshot ] (http://puu.sh/pRdXW/2610b91c23.jpg "Screenshot")
+![Screenshot] (http://puu.sh/pRdXW/2610b91c23.jpg "Screenshot")
 
 **dubz's mix of technocandy** : [download] (http://puu.sh/pKYrT/42ac855283.zip)
 
