@@ -3,7 +3,7 @@ Skins for Osu! _nothing much_ to look at.
 
 These are the links to the osu! skins that I currently use. ~~Maybe~~ this will be updated maybe not.
 
-**dubzcantgetagoodskin** (Supports all Modes : [download] (https://puu.sh/qhXKV/579b936989.zip)
+**dubzcantgetagoodskin** (Supports all Modes) : [download] (https://puu.sh/qhXKV/579b936989.zip)
 
 ![Screenshot] (https://puu.sh/qhY7B/f613442065.jpg "Screenshot")
 
